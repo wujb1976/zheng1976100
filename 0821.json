@@ -11,7 +11,16 @@
 {"key":"csp_Kanqiu","name":"看球","type":3,"api":"csp_Kanqiu","searchable":0,"quickSearch":0,"changeable":0,"gridview":3,"style":{"type":"list"},"jar":"https://jihulab.com/yoursmile2/TVBox/-/raw/master/Yoursmile.jar;md5;c6aaf6a9498e1e1d07126779c687bdd8"},
 {"key": "闪闪音乐网","name": "闪闪音乐","type": 3,"api": "csp_XBPQ","searchable": 0,"quickSearch": 0,"ext": "https://xn--fjq53n.xyz/Ting/yinyue/闪闪音乐网.json"},
 {"key":"好趣网","name":"电视 | 好趣网[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/好趣网.js","searchable":0,"quickSearch":0},
-{"key":"相声随声听","name":"相声随声听[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/相声随身听.js","searchable":0,"quickSearch":0},
+{
+	"key":"相声随声听",
+	"name":"相声随声听[js]",
+	"type":3,
+	"api":"./lib/drpy2.min.js",
+	"ext":"./js/相声随身听.js",
+	"searchable":0,
+	"quickSearch":0
+},
+	
 {"key":"蜻蜓FM","name":"蜻蜓FM[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/蜻蜓FM.js","playerType":"2","searchable":0,"quickSearch":0},
 
 
